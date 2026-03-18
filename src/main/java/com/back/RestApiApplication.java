@@ -1,13 +1,14 @@
-package com.back.p26260310;
+package com.back;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class P26260310Application {
+public class RestApiApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(P26260310Application.class, args);
+        SpringApplication.run(RestApiApplication.class, args);
     }
 
 }
+
